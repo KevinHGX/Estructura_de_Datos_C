@@ -43,7 +43,7 @@ void mostrarGeneracion(tpuntero cabeza,int nivel);
 void mostrarArbolDecendente(tpuntero cabeza,int nivel);
 
 int main(){
-
+	//prueba git
 	int out, op,num,op_r, mantener_arbol;
 	int next = 1,cont = 0, c_niveles = 0,k,num_n = 0;
 	tpuntero cabeza;//Indica la cabeza de la lista enlazada, si la perdemos no podremos acceder a la lista
